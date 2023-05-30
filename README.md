@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/img/11.jpg)
+![](https://github.com/gilda-prv/beauty-salon/blob/main/img/FireShot%20Capture%20001%20-%20beauty%20salon%20-%20gilda-prv.github.io.png)
 
 ### Built with
 
